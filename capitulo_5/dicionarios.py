@@ -10,4 +10,8 @@ print(meu_dicionario['k2'])
 
 res = meu_dicionario['k2']
 
-print()
+print(res)
+
+d = {1: 'Thiago', 2: 'Gabriel', 3: 'Gustavo', 4: 'Telma', 5: 'Nathalia' , 6: 'Peter' , 7: 'FF',
+     8: 'Alexandre' }
+print(d(items()))
